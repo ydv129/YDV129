@@ -1,7 +1,7 @@
 ![logo](https://github.com/ydv129/YDV129/blob/81ce9ce8bba7dbe8ab036103f31f9feedc189744/Virtual.jpg)
 <h1 align="center">Hi 👋, I'm NICK</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://i.gifer.com/DVYt.gif](https://github.com/ydv129/YDV129/blob/921b77df98e1003a55c6dd2d504215cc9d49aac4/level.jpg)">
+<img align="right" alt="coding" width="400" src="[https://github.com/ydv129/YDV129/blob/921b77df98e1003a55c6dd2d504215cc9d49aac4/level.jpg]">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ydv129&label=Profile%20views&color=0e75b6&style=flat" alt="ydv129" /> </p>
 
 - 📫 How to reach me **YDV129111@GMAIL.COM**
