@@ -1,5 +1,5 @@
 ![logo](https://github.com/ydv129/YDV129/blob/81ce9ce8bba7dbe8ab036103f31f9feedc189744/Virtual.jpg)
-[![An image of @ydv129's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ydv129)](https://holopin.io/@ydv129)
+![logo](https://github.com/ydv129/YDV129/blob/81ce9ce8bba7dbe8ab036103f31f9feedc189744/evel0-sloth-code-0-0-0-0.jpg)
 
 <h1 align="center">Hi 👋, I'm NICK</h1>
 <h3 align="center">A passionate developer from India</h3>
