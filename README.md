@@ -527,4 +527,3 @@ Ship with intent.
 
 </div>
 
-**Verified everything is dynamic to `ydv129`** — every stats card, streak counter, top-langs widget, activity graph, trophy board, profile view counter, follower badge, star counter, project pin, and snake animation now references your username consistently. Drop the file in as `README.md` inside your `ydv129/ydv129` repo and it'll render live.
