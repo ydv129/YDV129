@@ -455,6 +455,8 @@ Open-source contributions<br/>
 
 > *"Beautiful products feel effortless — behind that simplicity is relentless engineering."* — *Neeraj*
 
+<div align="center">
+
 ```txt
 Build what matters.
 Scale what works.
@@ -462,9 +464,17 @@ Optimize relentlessly.
 Ship with intent.
 ```
 
+</div>
+
+<div align="center">
+
 <sub>⭐ <i>If you find my work interesting, consider starring a repo or dropping a hello.</i></sub>
 
+<br/>
+
 <sub>🛠️ Crafted with intent • Engineered for impact</sub>
+
+</div>
 
 </div>
 
