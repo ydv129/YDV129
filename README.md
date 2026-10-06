@@ -128,11 +128,20 @@ TypeScript • Express • Databases • Docker • Linux • Git
 </td>
 </tr>
 <tr>
-<td width="50%">
-<img width="100%" alt="Top repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydv129&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&langs_count=8"/>
-</td>
-<td width="50%">
-<img width="100%" alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ydv129&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFB86C&area=true&area_color=58A6FF"/>
+<td colspan="2" align="center">
+
+### Primary Technology Stack
+
+<img alt="Primary technology badge for JavaScript" src="https://img.shields.io/badge/JavaScript-1F6FEB?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img alt="Primary technology badge for React" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="Primary technology badge for Python" src="https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<img alt="Primary technology badge for React Native" src="https://img.shields.io/badge/React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="Primary technology badge for DevOps" src="https://img.shields.io/badge/DevOps-58A6FF?style=for-the-badge&logo=linux&logoColor=0D1117"/>
+
+<br/>
+
+<sub>JavaScript-first full-stack development • React and React Native applications • Python backends and automation • DevOps and deployment</sub>
+
 </td>
 </tr>
 </table>
